@@ -27,3 +27,5 @@ xcuserdata/
 *.xcscmblueprint
 
 TodayWidget/TodayWidget.xcodeproj/project.xcworkspace/xcuserdata/Leonardo.xcuserdatad/UserInterfaceState.xcuserstate
+
+*.xcuserstate
